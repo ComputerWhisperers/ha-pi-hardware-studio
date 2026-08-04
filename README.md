@@ -23,6 +23,8 @@ features from one Ingress dashboard.
 
 ## Installation
 
+This repository is still under development. When it is published:
+
 1. In Home Assistant, open **Settings > Apps > App store**.
 2. Open **Repositories** from the menu.
 3. Add this repository URL.
@@ -30,12 +32,6 @@ features from one Ingress dashboard.
 5. Disable protection mode for the app. Mounting the host boot partition
    requires elevated access.
 6. Start the app and open its Web UI.
-
-## Release convention
-
-App versions use plain semantic versions such as `1.0.6`. Git tags for new
-releases should use the same plain version string so Home Assistant does not
-display a leading `v` in app-facing version fields.
 
 ## Security
 

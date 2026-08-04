@@ -1,10 +1,5 @@
 # Changelog
 
-## 1.0.6
-
-- Normalize release metadata so app-facing versions use plain semantic versions without a leading `v`.
-- Document the release convention to keep Home Assistant version displays consistent.
-
 ## 1.0.5
 
 - Add a backup manager for reviewing and deleting selected Studio backups.
